@@ -1,0 +1,126 @@
+CustomerID,Name,Email,Phone,Age,Country,PurchaseAmount
+1,Vanessa Kelly,hfreeman@example.net,807.719.4379x7944,63,U.K,164.15
+2,,williamselizabeth@example.net,662.535.8086x4451,68,UK,
+3,Tammy Gates,robert37@example.net,(398)896-2070x066,unknown,UK,778.09
+4,Stephanie Walker,ghale@example.net,693.768.6660,63,pakistan,
+5,Vicki Washington,fmadden@example.com,001-468-251-0245x47119,21,U.S.A,536.29
+6,,invalid_email,687-467-1071x853,44,Pakistan,287.5
+7,Bonnie Bradley,invalid_email,+1-324-457-2589x41077,-5,Pakistan,651.52
+8,David Fernandez,alee@example.org,+1-299-340-7064x1086,21,Pakistan,590.91
+9,Kelly Esparza,christopherortiz@example.net,978.352.5912x23524,46,India,
+10,Brian Dean,calvin34@example.org,5915037073,53,UK,661.19
+11,Andrew Drake,qwalker@example.net,(818)231-5129x12419,37,USA,983.55
+12,Andrea Jones,jjohnson@example.net,598.741.9242x634,35,U.S.A,48.59
+13,Kimberly Campbell,loretta13@example.org,2479536020,46,U.K,874.26
+14,Michelle Johnson,mary58@example.net,+1-790-905-8723x4684,42,UK,566.38
+15,Jason Shaffer,jacobhaney@example.org,889.891.5428,30,UK,653.26
+16,Katelyn Ellis,peter51@example.com,807.621.7747,24,INDIA,?
+17,,evansalfred@example.org,643-644-5390x1581,27,pakistan,464.83
+18,Vanessa Sullivan,invalid_email,+1-442-702-8942x986,48,Pakistan,943.55
+19,Brittany Parker,nroberts@example.com,+1-442-736-4312,53,USA,633.83
+20,,invalid_email,+1-319-442-0221x79606,67,Pakistan,732.26
+21,Clayton Jenkins,scottrandall@example.net,624.731.2672x3676,54,Pakistan,584.9
+22,Timothy Marshall,invalid_email,(308)780-2311x688,-5,Usa,168.13
+23,,michaelwallace@example.org,360-354-2967,68,pakistan,217.18
+24,Christina Good,angelahamilton@example.net,2143885562,23,Usa,938.32
+25,Roberta Gaines,perryjessica@example.org,934-345-3769,43,pakistan,432.66
+26,Misty Ramos,richardalvarez@example.org,253.862.1302x64831,46,Usa,167.29
+27,Laura Davis,rodriguezcynthia@example.org,844.355.7304x78078,54,pakistan,864.26
+28,Emily Griffith,invalid_email,214.355.9709x990,43,INDIA,NA
+29,Anne Brooks,invalid_email,3075,45,INDIA,113.06
+30,John Steele,fwashington@example.net,+1-613-726-2966x215,-5,U.S.A,519.07
+31,,willie32@example.org,877.386.5484x0025,53,India,335.47
+32,Emily Wilson,carrie40@example.org,001-343-492-4235x9955,50,U.S.A,875.41
+33,Frances Mata,amy70@example.com,2730,39,Pakistan,389.15
+34,Christopher Martin,benjamin86@example.net,273-519-8049x73889,54,Usa,381.79
+35,Toni Smith,crawfordcourtney@example.net,851-735-5429,46,Pakistan,355.89
+36,Adam Mcdonald,invalid_email,+1-949-337-9216x382,24,U.K,69.68
+37,Lauren Adams,jordanstafford@example.net,+1-273-685-5386x51655,59,U.K,922.14
+38,aatherine Dodson,brandonwilliams@example.net,(629)681-6070,38,INDIA,NA
+39,Kristin Bullock,mosleyrichard@example.org,+1-529-415-0993x1966,41,U.K,
+40,,tferguson@example.net,(409)881-1518x7490,63,INDIA,885.53
+41,Kimberly Garrett,invalid_email,+1-271-218-8160x274,70,U.S.A,513.57
+42,Jerry Pruitt,wholloway@example.com,880.521.1557,38,Pakistan,
+43,Alan Hall,angelamedina@example.com,812-363-7069x14217,36,UK,
+44,Amanda Richmond,invalid_email,3197,19,U.S.A,?
+45,Valerie Baker,operry@example.org,(548)390-0375x569,66,U.K,655.0
+46,Hunter Clark,collinsdavid@example.net,717.500.4286x6746,39,Usa,158.08
+47,,hrasmussen@example.com,001-960-539-6754x21738,43,USA,465.48
+48,,lbennett@example.net,580.827.4038,32,INDIA,468.42
+49,Justin Curtis,invalid_email,893.349.2788x4786,26,UK,542.79
+50,Sharon Ray,mark86@example.net,+1-455-975-4540x60077,22,U.K,883.22
+51,Lisa Miranda,haroldmunoz@example.net,+1-521-556-6938x7367,43,INDIA,314.23
+52,Anthony Kent,mcbrideamanda@example.com,8201,44,Pakistan,424.9
+53,Melissa Mejia,youngjay@example.com,+1-922-947-0459x897,23,USA,
+54,Jason Hicks,shawna00@example.net,6579,30,pakistan,909.07
+55,Deanna Roberts,invalid_email,+1-899-341-7539x17355,200,USA,920.01
+56,Christopher Thornton,roberthoffman@example.org,+1-489-399-2945x489,54,USA,492.51
+57,Donald Brown DVM,allenthomas@example.net,373-432-5912x93378,39,USA,530.96
+58,Debra Solis,josephtrujillo@example.org,001-899-425-3269x54154,69,India,712.21
+59,Pamela Kim,vrogers@example.com,8425213310,19,USA,785.5
+60,Jeremy Butler,amy49@example.net,8048,27,UK,786.45
+61,Monique Ramsey,kcoffey@example.com,772-809-6866x6779,23,pakistan,875.08
+62,Jeanette Bishop,sthomas@example.org,001-345-663-1515x39111,51,UK,250.28
+63,Sharon Palmer,zbanks@example.com,565-246-1360x156,43,India,565.12
+64,Paul Larson,tonya55@example.org,(794)621-4333,22,India,718.66
+65,Kenneth Thomas,mrose@example.org,950-724-2983,50,Usa,47.3
+66,Makayla Ruiz,hjames@example.net,802-787-6755x3054,36,India,248.16
+67,,brucemaria@example.net,483-852-8189x1562,200,UK,NA
+68,Natalie Medina,lydiamonroe@example.org,001-810-385-4030x92828,42,India,832.56
+69,Timothy Tate,dominguezjoseph@example.net,7635,unknown,U.K,930.19
+70,,masonrebecca@example.com,398-324-8346x0677,34,Pakistan,540.84
+71,Michael Carey,invalid_email,516-728-8407,46,USA,827.06
+72,,invalid_email,986.732.8280,23,USA,920.9
+73,Don Shaw,ddouglas@example.com,(361)287-5703,42,pakistan,750.43
+74,Dt. Joseph Hogan,simonjulia@example.net,(960)954-4123x040,39,pakistan,834.63
+75,Karen Ross,invalid_email,001-478-566-0994x898,59,Pakistan,
+76,Jesse Moran,vroberts@example.org,669-705-1079,46,India,102.03
+77,Paul Lewis,bjones@example.org,9776475817,19,U.K,213.88
+78,Rachel Branch,qgolden@example.org,554-381-8170,38,USA,423.32
+79,Joseph Sanchez,william01@example.net,618.286.9940x9025,28,USA,570.14
+80,Terri Singh,invalid_email,750-401-0385,19,Usa,367.48
+81,Anna Eaton,invalid_email,(570)208-2022x349,59,Pakistan,694.13
+82,Kimberly West,invalid_email,(385)816-6881,35,USA,293.45
+83,Brian Kelley,invalid_email,483-313-3736x7663,31,UK,944.91
+84,Vicki Finley,invalid_email,(587)236-9278x791,26,Pakistan,121.91
+85,Steven Moreno,invalid_email,228-433-6351x40927,61,India,?
+86,Anthony Frank,lindanunez@example.net,+1-468-537-5082,41,U.K,591.95
+87,Julie Morris,carterwesley@example.org,416-491-8056x950,21,India,358.68
+88,Bryan Robergson,chris46@example.org,(676)927-5856x6853,19,Pakistan,143.76
+89,Cody Solis,zacharypoole@example.com,768-454-1183x447,52,Usa,403.23
+90,,pmcclain@example.org,1197,34,Pakistan,394.55
+91,Laura Johnson,invalid_email,856.615.7516,23,U.S.A,937.33
+92,Michael Wilson,webbjennifer@example.net,8855,37,USA,643.34
+93,Lindsay Rojas,trevorfrazier@example.net,+1-762-974-3380,35,INDIA,NA
+94,,ortegawilliam@example.com,001-772-835-4536x6557,unknown,Pakistan,693.21
+95,,invalid_email,270.800.0620,27,India,NA
+96,Maria Goodwin,invalid_email,+1-932-606-9432x99861,32,Pakistan,838.9
+97,Brianna Hernandez,pricematthew@example.org,+1-582-540-9596x4219,200,U.K,572.86
+98,Stacy Frazier,wilsonerin@example.com,309.560.2740x46895,33,India,983.93
+99,Audrey Jones,shannonlee@example.org,863-487-5472,19,USA,49.39
+100,Peggy Kemp,nicholas56@example.com,001-575-807-2001x52153,60,U.K,
+101,Tracy Johnson,samuel94@example.com,948.672.8333,37,U.S.A,501.13
+102,Miguel Woodard,singletonmelanie@example.com,909.609.0645x5112,56,India,846.62
+103,,gonzalezrebecca@example.com,820-745-9717x95379,68,U.K,971.42
+104,Timothy Walsh,invalid_email,384.320.6665,56,Pakistan,NA
+105,Shawn Williams,qduarte@example.org,7752,32,pakistan,131.81
+106,Rachel Torres,fdalton@example.org,(306)204-3570,59,India,997.82
+107,Christopher Reese,lawsonjaime@example.com,+1-597-693-5103x59321,51,UK,241.43
+108,,dfritz@example.org,+1-229-769-7771x46013,67,pakistan,534.59
+109,Paul Hall,nancyschmitt@example.org,+1-331-233-8475x10313,28,UK,996.9
+110,,ktucker@example.org,9981,22,India,913.17
+111,Nathaniel Vargas,jdiaz@example.com,001-475-318-6779x21723,37,pakistan,255.35
+112,Samantha Quinn,invalid_email,329-352-5449x189,29,Pakistan,463.24
+113,Molly Collina,zmann@example.org,(930)948-2415x21512,47,U.S.A,349.51
+114,Colin Edwards,johnny15@example.org,7320,26,U.K,78.27
+115,Michael Hardy,sullivansamantha@example.net,001-535-318-8514x096,54,pakistan,644.65
+116,William Callahan,john06@example.com,001-457-398-1937x511,40,U.K,562.27
+117,Omar Simon,rtorres@example.com,+1-778-427-4448,66,UK,781.95
+118,Charles Eaton,walkerjohn@example.org,731.796.2187,58,Usa,73.16
+119,Nicole Walker,elizabethalexander@example.net,205-423-4924x9867,21,UK,314.77
+120,John Aguirre,invalid_email,+1-309-529-9411x58145,40,UK,953.57
+29,Anne Brooks,invalid_email,3075,45,INDIA,113.06
+66,Makayla Ruiz,hjames@example.net,802-787-6755x3054,36,India,248.16
+92,Michael Wilson,webbjennifer@example.net,8855,37,USA,643.34
+106,Rachel Torres,fdalton@example.org,(306)204-3570,59,India,997.82
+22,Timothy Marshall,invalid_email,(308)780-2311x688,-5,Usa,168.13

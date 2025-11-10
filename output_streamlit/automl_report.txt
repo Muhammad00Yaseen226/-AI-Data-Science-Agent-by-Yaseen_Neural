@@ -1,0 +1,6 @@
+AutoML Report
+Best model: linear_regression
+
+rmse: 1.0289331216017699
+mae: 0.8545472993586533
+r2: 0.11904122179464904

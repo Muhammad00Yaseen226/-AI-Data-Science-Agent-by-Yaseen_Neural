@@ -1,0 +1,6 @@
+model,metric_rmse,metric_mae,metric_r2,model_path
+linear_regression,1.0289331216017699,0.8545472993586533,0.11904122179464904,output_streamlit\model_linear_regression.joblib
+random_forest,1.175857084840466,0.960368040131219,-0.1505099339977416,output_streamlit\model_random_forest.joblib
+xgboost,1.0427839514876605,0.8694435042212705,0.09516379441610312,output_streamlit\model_xgboost.joblib
+lightgbm,1.1033768536937418,0.9012219352732255,-0.013045684554887194,output_streamlit\model_lightgbm.joblib
+mlp,1.1547526413466576,0.9985706683694439,-0.1095815354712335,output_streamlit\model_mlp.joblib
